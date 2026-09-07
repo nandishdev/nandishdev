@@ -8,20 +8,13 @@
 - **[Patient Activity Recognition System](https://github.com/nandishdev/Patient-Activity-Recognition-System)** — an LSTM + MediaPipe based system that recognizes patient activities from video feeds.
 
 🌱 I'm currently exploring advanced LLM tooling and agentic AI systems.  
-💡 Interested in AI, Machine Learning, Software Development Engineering (SDE), and Full Stack Development (FSD).  
+💡 Interested in Artificial Intelligence, Machine Learning, Software Development Engineering (SDE), and Full Stack Development (FSD).  
 🎓 Education: B.E. in Information Science (VTU), Final Year.
 
 ## 🌐 Socials:
 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nandishsandur64@gmail.com)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamnandish)
-
-## 🏆 Certifications:
-
-- 🎓 **BCG – GenAI Job Simulation** (Forage, Sep 2026)
-- 🎓 **Skyscanner – Software Engineering Job Simulation** (Forage, Sep 2026)
-- 🎓 **Agentic AI Day – Certificate of Participation** (Google Cloud & Hack2skill, Sep 2025)
-- 🎓 **Artificial Intelligence Fundamentals** (IBM, Aug 2025)
 
 ## 💻 Tech Stack:
 
@@ -33,6 +26,3 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/-Gemini-8E75B2?logo=googlegemini&logoColor=white)
 
-## 📊 GitHub Stats:
-
-![Nandish's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandishdev&show_icons=true&theme=default)
